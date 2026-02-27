@@ -1,0 +1,17 @@
+CREATE database School; 
+
+Use School; 
+
+CREATE TABLE tblStudents ( 
+
+fldStudentId INT NOT NULL PRIMARY KEY,  
+
+fldFName varchar(50) NOT NULL, 
+
+fldLName varchar(50) NOT NULL, 
+
+fldGPA decimal(3,2) NOT NULL, 
+
+fldCurrentCredits int(5) NOT NULL, 
+
+fldTotalCredits int(5) NOT NULL); 
