@@ -1,0 +1,22 @@
+Website Used:
+https://www.exportersindia.com/indian-suppliers/fruit-juice.htm
+
+1)
+document.querySelector('a._view_mobile')
+
+2)
+document.querySelectorAll('a._view_mobile')
+
+3)
+
+???
+var elems = document.querySelectorAll('a._view_mobile');
+for (i=0;i<elems.length;i++){document.write(elems[i].href}
+
+
+RESOLVED!
+Shift + Enter (on Windows) for a new line
+
+5)
+var elems = document.querySelectorAll('a._view_mobile');
+for (i=0;i<elems.length;i++){document.write(elems[i].href + '<br/>')}

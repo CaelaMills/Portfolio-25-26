@@ -1,0 +1,27 @@
+document.querySelector('a._view_mobile')
+<a data-id=​"1" data-qstr=​"mem_id=15100476&srch_kword=Frozen Watermelon Juice&catg_slno=62273&moq=5&quantity_unit=Ton" data-durl=​"indian-suppliers" data-qpg=​"fruit-juice.htm" onclick=​"ga('send', { 'hitType':​ 'pageview', 'page':​ '/​ViewMobileNo/​ViewMobileNoClick/​index.htm', 'title':​ 'www.exportersindia.com/​indian-suppliers/​fruit-juice.htm' }​)​;​ ga('send', 'event', { eventCategory:​ 'ViewMobileNo', eventAction:​ 'CLD-ViewMobileNoClicked', eventLabel:​ 'www.exportersindia.com/​indian-suppliers/​fruit-juice.htm'}​)​;​" class=​"_view_mobile view_mobile" role=​"button">​…​</a>​
+document.querySelectorAll('a._view_mobile')
+NodeList(58) [a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile, a._view_mobile.view_mobile]
+        var elems = document.querySelectorAll('a._view_mobile'); for (i=0;i<elems.length;i++){document.write(elems[i].href} 
+VM32458:1 Uncaught SyntaxError: missing ) after argument list
+[NEW] Explain Console errors by using Copilot in Edge: click
+         
+         to explain an error. 
+        Learn more
+        Don't show again
+var elems = document.querySelectorAll('a._view_mobile'); for (i=0;i<elems.length;i++){document.write(elems[i].href} 
+VM32463:1 Uncaught SyntaxError: missing ) after argument list
+var elems = document.querySelectorAll('a._view_mobile')
+undefined
+var elems = document.querySelectorAll('a._view_mobile');for (i=0;i<elems.length;i++){document.write(elems[i].href}
+VM32552:1 Uncaught SyntaxError: missing ) after argument list
+var elems = document.querySelectorAll('a._view_mobile'); for (i=0;i<elems.length;i++){document.write(elems[i].href}
+VM32557:1 Uncaught SyntaxError: missing ) after argument list
+    var elems = document.querySelectorAll('a._view_mobile'); for (i=0;i<elems.length;i++){document.write(elems[i].href}
+VM32570:1 Uncaught SyntaxError: missing ) after argument list
+var elems = document.querySelectorAll('a._view_mobile.view_mobile')
+undefined
+var elems = document.querySelectorAll('a._view_mobile')
+undefined
+var elems = document.querySelectorAll('a._view_mobile')
+undefined
